@@ -1,0 +1,16 @@
+{
+	"boilerplate": {
+		"prefix": "universal",
+		"body":[
+			"#include<bits/stdc++.h>", 
+				"using namespace std;\n",
+				"int main(){",
+				"\t$1",
+				"return 0;",
+				"}",
+				],
+						"description":"this is universal"
+		} 
+		
+	
+	}
